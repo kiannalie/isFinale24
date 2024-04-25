@@ -1,0 +1,196 @@
+
+.resume-page-wrapper {
+    padding-left: 4vh;
+    padding-right: 4vh;
+    font-family: 'vogamedium';
+  }
+  .resume-main-wrapper {
+    display: flex;
+    flex-direction: column;
+  }
+  .spacer {
+    width: 100%;
+    height: 5vh;
+  }
+  /* aos */
+  .linedude {
+    padding-right: 5vw;
+  }
+  .linegirl {
+    border-bottom-style: solid;
+    border-color: #eabfb9;
+    padding-bottom: 10px;
+  }
+  /* skills */
+  .skills-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: flex-end;
+    line-height: 30px;
+  }
+  .skills-container__title {
+    align-content: flex-start;
+    width: 30vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    letter-spacing: 3px;
+  }
+  .skills-container__tech {
+    width: 30vw;
+    letter-spacing: 3px;
+  }
+  .skills-container__tech li {
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 0px;
+  }
+  .skills-container__soft {
+    width: 28vw;
+    letter-spacing: 3px;
+  }
+  .skills-container__soft li {
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 0px;
+  }
+  .skills-list-wrapper {
+    display: flex;
+    flex-direction: row;
+  }
+  /* work */
+  .work-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: flex-end;
+    line-height: 30px;
+  }
+  .work-container__title {
+    align-content: flex-start;
+    width: 59vw;
+    letter-spacing: 3px;
+  }
+  .work-container__content-title {
+    letter-spacing: 3px;
+  }
+  .work-container__content-experience {
+    width: 40vw;
+  }
+  .work-container__content-experience p {
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  .link-boys {
+    text-decoration: none;
+    color: #b86b77;
+  }
+  .link-boys:hover {
+    color: black;
+  }
+  .link-in-body {
+    text-decoration: none;
+    color: #b86b77;
+  }
+  .link-in-body:hover {
+    color: black;
+  }
+  .work-block {
+    padding-bottom: 20px;
+  }
+  /* edu */
+  .edu-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: flex-end;
+    line-height: 30px;
+  }
+  .edu-container__title {
+    align-content: flex-start;
+    width: 85vw;
+    letter-spacing: 3px;
+  }
+  .edu-container__content-title {
+    letter-spacing: 2px;
+  }
+  .link-in-body {
+    text-decoration: none;
+    color: #b86b77;
+  }
+  .link-in-body:hover {
+    color: black;
+  }
+  .edu-container__content-info {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 300;
+    font-style: italic;
+  }
+  .edu-container__content-award {
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  /* awards */
+  .awards-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: flex-end;
+    line-height: 30px;
+  }
+  .awards-container__title {
+    align-content: flex-start;
+    width: 64vw;
+    letter-spacing: 3px;
+  }
+  .awards-container__content-title {
+    letter-spacing: 2px;
+  }
+  .awards-container__content-info {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 300;
+    font-style: italic;
+  }
+  .awards-container__content-experience {
+    width: 40vw;
+    letter-spacing: 2px;
+  }
+  .link-in-body {
+    text-decoration: none;
+    color: #b86b77;
+  }
+  .link-in-body:hover {
+    color: black;
+  }
+  /* service */
+  .service-container {
+    display: flex;
+    flex-direction
+
+: row;
+    justify-content: flex-start;
+    align-items: flex-end;
+    line-height: 30px;
+  }
+  .service-container__title {
+    align-content: flex-start;
+    width: 44vw;
+    letter-spacing: 3px;
+  }
+  .service-container__content-title {
+    letter-spacing: 2px;
+  }
+  .service-container__content-experience {
+    width: 40vw;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  .service-container__content-info {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 300;
+    font-style: italic;
+  }
+  .link-in-body {
+    text-decoration: none;
+    color: #b86b77;
+  }
+  .link-in-body:hover {
+    color: black;
+  }
+
